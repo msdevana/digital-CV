@@ -12,10 +12,14 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 ## Publications
 
 1. M. Devana, W.E. Johns (2021): Rapid Freshening of Iceland Scotland Overflow Water Driven by Entrainment of a Major Upper Ocean Salinity Anomaly, _Geophysical Research Letters_
-2. W.E.Johns, M.Devana, A.Houk, S.Zou (2021): Moored Observations of the Iceland-Scotland Overflow Plume Along the Eastern Flank of the Reykjanes Ridge
+2. W.E.Johns, M.Devana, A.Houk, S.Zou (2021): Moored Observations of the Iceland-Scotland Overflow Plume Along the Eastern Flank of the Reykjanes Ridge, _Journal of Geophysical Research: Oceans_
 <!-- 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
 
 ## Education
+
+1. 2013-2015 New York University, _Biochemistry_
+2. 2015-2018 University of Southamption, UK, _Physical Oceanography - MSCi (integrated BSC & MSC)_
+3. 2018-Present (_expected June 2023_) University of Miami, _Meteorology and Physical Oceanography - PhD_
 
 ## Technical Skills
 
@@ -26,9 +30,13 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
    - Developed python programs for oceanographic field work (CTD and mooring data processing, mooring trilateration, instrument calibrations)
    - Open science oriented methods
 2. Julia (Proficient)
+   - Experience with numerical fluid dynamics simulations, gesopatial and time series data analysis
 3. Matlab (Strong)
+4. Javascript (Proficient)
 
 ## Professional Development
+
+1. Graduate Undergraduate Mentoring (GUM) - _Co-Founder and Mentor (2020-2023)_
 
 ## Awards
 
