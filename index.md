@@ -6,6 +6,8 @@ layout: default
 
 I currently study deep ocean circulation in the North Atlantic Program as a PhD student under the Overturning in the Subpolar North Atlantic Program (OSNAP). My research examines abyssal flows across a wide range of physical and temporal scales to understand how flow varies in strength, position, and its hydrographic properties.
 
+<img class="profile-picture" src="profPic.jpeg">
+
 ## Experience
 
 ## Publications
