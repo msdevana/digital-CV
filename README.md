@@ -1,60 +1,45 @@
-# Researcher
+---
+layout: default
+---
 
-### [Demo Website](http://ankitsultana.com/researcher)
+## About Me
 
-A clean, single column, monospace resume template built for jekyll
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-### Installation
+Manish
 
-Simply fork the repository and edit away.
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-#### Installation via remote themes
+## Research Interest
 
-* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
-you would build your site locally for testing. If you know how, open up an issue and let me know.
-* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-### Customization
+## Publications
 
-* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+1. F.Bar, J.Doe: Effects of having a placeholder of a name
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-* You can of course remove `contact.md` if you don't want it
+## Typography
 
-* To set the heading, edit the `title` variable in `_config.yml`
+This is a [link](http://google.com). Something _italics_ and something **bold**.
 
-* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+Here is a table
 
-```
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
-```
+| Year | Award     | Category                                              |
+| ---- | --------- | ----------------------------------------------------- |
+| 2014 | Emmy      | Won Outstanding Lead Actor in a miniseries or a movie |
+| 2015 | BAFTA     | Nominated for Best Leading Actor for Sherlock         |
+| 2014 | Satellite | Won Best Actor miniseries or television film          |
 
-* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+Here is a horizontal rule
 
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+---
 
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+Here is a blockquote
 
-```html
-<img class="profile-picture" src="sherlock.jpg">
-```
+> To a great mind, nothing is little
 
-* You can remove/customize the footer as you like by setting the
-appropriate variables in `_config.yml`
+## References
 
-* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
-to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
-value
-
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
-
-**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
-
-### License
-
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+- Foo Bar: Head of Department, Placeholder Names, Lorem
+- John Doe: Associate Professor, Department of Computer Science, Ipsum
