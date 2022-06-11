@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://msdevana.github.io/"
-baseurl: "/cv"
+baseurl: "/digital-CV"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
