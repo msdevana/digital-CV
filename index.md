@@ -11,7 +11,7 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 
 ## Publications
 
-1. M. Devana, W.E. Johns (2021): Rapid Freshening of Iceland Scotland Overflow Water Driven by Entrainment of a Major Upper Ocean Salinity Anomaly
+1. M. Devana, W.E. Johns (2021): Rapid Freshening of Iceland Scotland Overflow Water Driven by Entrainment of a Major Upper Ocean Salinity Anomaly, _Geophysical Research Letters_
 2. W.E.Johns, M.Devana, A.Houk, S.Zou (2021): Moored Observations of the Iceland-Scotland Overflow Plume Along the Eastern Flank of the Reykjanes Ridge
 <!-- 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
 
