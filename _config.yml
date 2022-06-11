@@ -1,4 +1,4 @@
-title: Researcher
+title: Manish S. Devana
 url: "https://msdevana.github.io/"
 baseurl: "/digital-CV"
 
@@ -12,13 +12,5 @@ footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
-    style: compressed
-    sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  style: compressed
+  sass_dir: _sass
