@@ -11,9 +11,9 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 
 ## Fieldwork Experience
 
-- RAPID-MOCHA Mooring Recovery and Hydrographic Survey Cruise _2018 November_
-- OSNAP Mooring Mooring Recovery and Hydrographic Survey Cruise _2019 September_
-- RAPID-MOCHA Mooring Recovery and Hydrographic Survey Cruise _2021 September_
+1. RAPID-MOCHA Mooring Recovery and Hydrographic Survey Cruise _2018 November_
+2. OSNAP Mooring Mooring Recovery and Hydrographic Survey Cruise _2019 September_
+3. RAPID-MOCHA Mooring Recovery and Hydrographic Survey Cruise _2021 September_
 
 ## Publications
 
