@@ -43,8 +43,8 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 ## Awards
 
 1. 2019 Outstanding Student Presentation Award - AGU Fall Meeting 2019
-2. COMPASS Student Seminar Series Best Graphics 2019
-3. COMPASS Student Seminar Series 3rd Place Overall 2020
+2. COMPASS Student Seminar Series Best Graphics 2019-20
+3. COMPASS Student Seminar Series 3rd Place Overall 2021-22
 
 ## Other Work Experience
 
