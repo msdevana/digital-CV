@@ -9,6 +9,10 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 
 ## Research Experience
 
+1. Time series analysis investigating spatial and temporal variability of ocean currents using moored observations
+2. Geospatial data analysis using a large range of data types and parameters from satellite derived datasets, lagrangian observations, and model outputs.
+3. Experience applying ARGO Float data in a range of forms ranging from raw float data to various derived products
+
 ## Fieldwork Experience
 
 1. RAPID-MOCHA Mooring Recovery and Hydrographic Survey Cruise _2018 November_
