@@ -28,6 +28,7 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 1. Python (Strong)
    - Experience using geospatial datasets with core earth science python packages (xarray,cartopy, dash, GMT, netcdf, numpy, scipy)
    - Developed python programs for oceanographic field work (CTD and mooring data processing, mooring trilateration, instrument calibrations)
+   - Extensive experience with time series analysis
    - Open science oriented methods
 2. Julia (Proficient)
    - Experience with numerical fluid dynamics simulations, gesopatial and time series data analysis
@@ -37,6 +38,7 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 ## Professional Development
 
 1. Graduate Undergraduate Mentoring (GUM) - _Co-Founder and Mentor (2020-2023)_
+2.
 
 ## Awards
 
@@ -44,7 +46,13 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 2. COMPASS Student Seminar Series Best Graphics 2019
 3. COMPASS Student Seminar Series 3rd Place Overall 2020
 
+## Other Work Experience
+
+1. Wetlab Bar - _Bartender (2019-present)_
+2. University of Southampton Student Union - _Event Staff and Bartender (2016-2018)_
+
 ## References
 
 - Wiliam E. Johns: Professor, Meteorology and Physical Oceanography, University of Miami, RSMAS
+- Mohamed iskandarani: Professor, Meteorology and Physical Oceanography, University of Miami, RSMAS
 <!-- - John Doe: Associate Professor, Department of Computer Science, Ipsum -->
