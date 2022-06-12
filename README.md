@@ -2,44 +2,67 @@
 layout: default
 ---
 
-## About Me
+## Research Interests
 
-<!-- <img class="profile-picture" src="sherlock.jpg"> -->
+<img class="profile-picture" src="profPic.jpeg">
+I currently study deep ocean circulation in the North Atlantic Program as a PhD student under the Overturning in the Subpolar North Atlantic Program (OSNAP). My research examines abyssal flows across a wide range of physical and temporal scales to understand how flow varies in strength, position, and its hydrographic properties.
 
-Manish
+## Research Experience
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+1. Time series analysis investigating spatial and temporal variability of ocean currents using moored observations
+2. Geospatial data analysis using a large range of data types and parameters from satellite derived datasets, lagrangian observations, and model outputs.
+3. Experience applying ARGO Float data in a range of forms ranging from raw float data to various derived products
 
-## Research Interest
+## Fieldwork Experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+1. RAPID-MOCHA Mooring Recovery and Hydrographic Survey Cruise _2018 November_
+2. OSNAP Mooring Mooring Recovery and Hydrographic Survey Cruise _2019 September_
+3. RAPID-MOCHA Mooring Recovery and Hydrographic Survey Cruise _2021 September_
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. M. Devana, W.E. Johns (2021): Rapid Freshening of Iceland Scotland Overflow Water Driven by Entrainment of a Major Upper Ocean Salinity Anomaly, _Geophysical Research Letters_
+2. W.E.Johns, M.Devana, A.Houk, S.Zou (2021): Moored Observations of the Iceland-Scotland Overflow Plume Along the Eastern Flank of the Reykjanes Ridge, _Journal of Geophysical Research: Oceans_
+<!-- 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
 
-## Typography
+## Education
 
-This is a [link](http://google.com). Something _italics_ and something **bold**.
+1. 2013-2015 New York University, _Biochemistry_
+2. 2015-2018 University of Southamption, UK, _Physical Oceanography - MSCi (integrated BSC & MSC)_
+3. 2018-Present (_expected June 2023_) University of Miami, _Meteorology and Physical Oceanography - PhD_
 
-Here is a table
+## Technical Skills
 
-| Year | Award     | Category                                              |
-| ---- | --------- | ----------------------------------------------------- |
-| 2014 | Emmy      | Won Outstanding Lead Actor in a miniseries or a movie |
-| 2015 | BAFTA     | Nominated for Best Leading Actor for Sherlock         |
-| 2014 | Satellite | Won Best Actor miniseries or television film          |
+#### Coding
 
-Here is a horizontal rule
+1. Python (Strong)
+   - Experience using geospatial datasets with core earth science python packages (xarray,cartopy, dash, GMT, netcdf, numpy, scipy)
+   - Developed python programs for oceanographic field work (CTD and mooring data processing, mooring trilateration, instrument calibrations)
+   - Extensive experience with time series analysis
+   - Open science oriented methods
+2. Julia (Proficient)
+   - Experience with numerical fluid dynamics simulations, gesopatial and time series data analysis
+3. Matlab (Strong)
+4. Javascript (Proficient)
 
----
+## Professional Development
 
-Here is a blockquote
+1. Graduate Undergraduate Mentoring (GUM) - _Co-Founder and Mentor (2020-2023)_
+2.
 
-> To a great mind, nothing is little
+## Awards
+
+1. 2019 Outstanding Student Presentation Award - AGU Fall Meeting 2019
+2. COMPASS Student Seminar Series Best Graphics 2019-20
+3. COMPASS Student Seminar Series 3rd Place Overall 2021-22
+
+## Other Work Experience
+
+1. Wetlab Bar - _Bartender (2019-present)_
+2. University of Southampton Student Union - _Event Staff and Bartender (2016-2018)_
 
 ## References
 
-- Foo Bar: Head of Department, Placeholder Names, Lorem
-- John Doe: Associate Professor, Department of Computer Science, Ipsum
+- Wiliam E. Johns: Professor, Meteorology and Physical Oceanography, University of Miami, RSMAS
+- Mohamed iskandarani: Professor, Meteorology and Physical Oceanography, University of Miami, RSMAS
+<!-- - John Doe: Associate Professor, Department of Computer Science, Ipsum -->
