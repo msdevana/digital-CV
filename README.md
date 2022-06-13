@@ -47,7 +47,9 @@ I currently study deep ocean circulation in the North Atlantic Program as a PhD 
 ## Professional Development
 
 1. Graduate Undergraduate Mentoring (GUM) - _Co-Founder and Mentor (2020-2023)_
-2.
+2. COMPASS Student Seminar Series Speaker - _(2019, 2020, 2021)_
+3. University of Miami Teaching Assistant - _Intro to Marine Science Lab (Fall 2019)_
+4. University of Miami Teaching Assistant - _Python Programming for Marine Science (Fall 2021)_
 
 ## Awards
 
