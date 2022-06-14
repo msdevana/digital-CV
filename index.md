@@ -2,6 +2,10 @@
 layout: default
 ---
 
+### Contact
+
+email: devanamarsci@gmail.com | phone: (413) 281-1989
+
 ## Research Interests
 
 <img class="profile-picture" src="profPic.jpeg">
